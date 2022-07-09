@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Contact-app/static/css/main.12fd649c.chunk.css",
+    "main.js": "/Contact-app/static/js/main.990012e1.chunk.js",
+    "main.js.map": "/Contact-app/static/js/main.990012e1.chunk.js.map",
+    "runtime-main.js": "/Contact-app/static/js/runtime-main.21262dbd.js",
+    "runtime-main.js.map": "/Contact-app/static/js/runtime-main.21262dbd.js.map",
+    "static/js/2.c651f52d.chunk.js": "/Contact-app/static/js/2.c651f52d.chunk.js",
+    "static/js/2.c651f52d.chunk.js.map": "/Contact-app/static/js/2.c651f52d.chunk.js.map",
+    "index.html": "/Contact-app/index.html",
+    "static/css/main.12fd649c.chunk.css.map": "/Contact-app/static/css/main.12fd649c.chunk.css.map",
+    "static/js/2.c651f52d.chunk.js.LICENSE.txt": "/Contact-app/static/js/2.c651f52d.chunk.js.LICENSE.txt",
+    "static/media/user.35a9c90c.jpg": "/Contact-app/static/media/user.35a9c90c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21262dbd.js",
+    "static/js/2.c651f52d.chunk.js",
+    "static/css/main.12fd649c.chunk.css",
+    "static/js/main.990012e1.chunk.js"
+  ]
+}
